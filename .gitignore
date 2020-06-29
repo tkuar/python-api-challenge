@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore API keys
+VacationPy/api_keys.py
+WeatherPy/api_keys.py
